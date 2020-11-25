@@ -1,0 +1,6 @@
+http://abstractionmusic.com/#secLicensing
+
+Attribution is required
+If you are using a song, it is required to properly attribute it in your project's credits.
+When attributing music, list the song's title and give credit by name (Abstraction).
+Also, you must include a link to either the Bandcamp page (http://abstractionmusic.bandcamp.com/) or home page (http://www.abstractionmusic.com/).
